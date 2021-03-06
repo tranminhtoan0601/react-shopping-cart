@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/1.jpg?v=1",
+        "title": "Buffalo - Striploin",
+        "price": "$39.11",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":2,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/2.jpg?v=2",
+        "title": "Bacardi Breezer - Tropical",
+        "price": "$257.92",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":3,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/3.jpg?v=3",
+        "title": "Wine - Gato Negro Cabernet",
+        "price": "$51.01",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":4,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/4.jpg?v=4",
+        "title": "Cabbage - Nappa",
+        "price": "$250.90",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":5,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/5.jpg?v=5",
+        "title": "Sping Loaded Cup Dispenser",
+        "price": "$175.85",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":6,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/6.jpg?v=6",
+        "title": "Bread - Malt",
+        "price": "$82.61",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":7,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/7.jpg?v=7",
+        "title": "Glass Clear 8 Oz",
+        "price": "$201.10",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":8,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/8.jpg?v=8",
+        "title": "Sping Loaded Cup Dispenser",
+        "price": "$134,.99",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":9,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/9.jpg?v=9",
+        "title": "Pork - Chop, Frenched",
+        "price": "$199.16",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    },
+    {
+        "id":10,
+        "thumbnail": "https://react-shooping-cart.netlify.app/img/10.jpg?v=10",
+        "title": "Sping Loaded Cup Dispenser",
+        "price": "$123.82",
+        "button": "DETAILS",
+        "button1": "ADD TO CART"
+    }
+    
+]
